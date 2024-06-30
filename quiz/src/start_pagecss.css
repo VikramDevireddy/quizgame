@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    
+}
+#playbtn{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: rgb(215, 236, 255);
+    align-items: center;
+    position: absolute;
+    top: 400px;
+    border:2px solid rgb(108, 168, 198);
+    padding:15px;
+
+    
+}
+#paraa
+{
+    color:aliceblue;
+    position: absolute;
+    top: 280px;
+    left: 690px;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right:300px;
+    top: 360px;
+    display: none;
+}
